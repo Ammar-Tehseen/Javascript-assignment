@@ -3,20 +3,6 @@
 // number, uppercase letter or lower case letter. (Hint: ASCII 
 // codes:- A=65, Z=90, a=97, z=122).
 
-// function checkCharType(char) {
-//     const code = char.charCodeAt(0);
-//     if (code >= 48 && code <= 57) {
-//         return "Number";
-//     } else if (code >= 65 && code <= 90) {
-//         return "Uppercase letter";
-//     } else if (code >= 97 && code <= 122) {
-//         return "Lowercase letter";
-//     } else {
-//         return "Other character";
-//     }
-// }
-// console.log(checkCharType(2));
-
 
 // 2. Write a JavaScript program that accept two integers and 
 // display the larger. Also show if the two integers are equal.
